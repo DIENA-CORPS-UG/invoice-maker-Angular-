@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "invoice-maker"
+    }
+  },
+  "defaultProject": "invoice-maker",
+  "cli": {
+    "analytics": false
+  }
 }
